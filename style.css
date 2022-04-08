@@ -64,6 +64,7 @@ nav a {
     font-weight: bold; /* negrito*/
     border-radius: 5px; /* borda arredondada*/
     transition-duration: 0.3s; /* delay de transição*/
+    margin-right: 40px;
     
 }
 
@@ -102,12 +103,12 @@ nav a:hover {
 
 .banner_texto h2 {
     color: white;
-    font-size: 30px;
-    text-shadow: 0px 1px 0px black;
+    font-size: 40px;
+    text-shadow: 0px 1px 1px black;
     font-family: 'Times New Roman', Times, serif;
     max-width: 350px;
-    margin-top: 30px;
-    color: var(--cor1);
+    margin-top: 50px;
+    color: var(--cor2);
 }
 
 .banner_options {
